@@ -1,5 +1,3 @@
-### José De Freitas
-
 Hello! Welcome to my profile, I'm glad you clicked on it.
 Below is a dotted list where you can see info about me.
 
