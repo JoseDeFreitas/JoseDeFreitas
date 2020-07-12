@@ -9,7 +9,7 @@ Below is a dotted list where you can see info about me.
 - Interested in: neuroscience, space, science, software.
 - Hobbies: reading, watching anime.
 
-You can contact me by my [GitHub](https://github.com/JoseDeFreitas/), my Discord (Jose#7947) or my [Twitter](https://twitter.com/JoseDeF32503298)
+You can contact me by my [GitHub](https://github.com/JoseDeFreitas/), my Discord (Jose#7947) or my [Twitter](https://twitter.com/JoseDeF32503298).
 
 🚀
 
