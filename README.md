@@ -7,6 +7,8 @@ Below is a dotted list where you can see info about me.
 - Interested in: neuroscience, space, science, software.
 - Hobbies: reading, watching anime.
 
+[![José De Freitas's github stats](https://github-readme-stats.vercel.app/api?username=JoseDeFreitas)](https://github.com/anuraghazra/github-readme-stats)
+
 You can contact me by my [GitHub](https://github.com/JoseDeFreitas/), my Discord (Jose#7947) or my [Twitter](https://twitter.com/JoseDeF32503298).
 
 🚀
