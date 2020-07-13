@@ -2,6 +2,7 @@ Hello! Welcome to my profile, I'm glad you clicked on it.
 Below is a dotted list where you can see info about me.
 
 - Programming languages I use: HTML, CSS (Sass), JavaScript, Python.
+- Technologies I use: Visual Studio Code, Vue, Webpack.
 - Languages I speak: English (professional), Spanish (native), Portuguese (intermediate), Japanese (beginner).
 - Projects I work on and looking to work on: websites, applications, extensions, project translations.
 - Interested in: neuroscience, space, science, software.
