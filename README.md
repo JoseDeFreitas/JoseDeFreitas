@@ -8,9 +8,17 @@ Below is a dotted list where you can see info about me.
 - Interested in: neuroscience, space, science, software.
 - Hobbies: reading, watching anime.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDeFreitas)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="210px" src="https://github-readme-stats.vercel.app/api?username=JoseDeFreitas" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDeFreitas&layout=compact" />
+</a>
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDeFreitas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![José De Freitas's github stats](https://github-readme-stats.vercel.app/api?username=JoseDeFreitas)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 You can find me in Discord (Jose#7947), [Twitter](https://twitter.com/JoseDeF32503298), [freeCodeCamp](https://www.freecodecamp.org/josedefreitas), [Medium](https://medium.com/@josedefreitas), [CodersRank](https://profile.codersrank.io/user/josedefreitas) and [Crowdin](https://crowdin.com/profile/JoseDeFreitas).
 
