@@ -17,7 +17,7 @@ Below is a dotted list where you can see info about me.
 </a>
 -->
 
-[![José De Freitas's github stats](https://github-readme-stats.vercel.app/api?username=JoseDeFreitas)](https://github.com/anuraghazra/github-readme-stats)
+[![José De Freitas's github stats](https://github-readme-stats.vercel.app/api?username=JoseDeFreitas&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDeFreitas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
