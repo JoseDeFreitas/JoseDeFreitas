@@ -18,8 +18,9 @@ Below is a dotted list where you can see info about me.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDeFreitas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-You can find me on
-Discord (Jose#7947) - [Twitter](https://twitter.com/JoseDeF32503298) - [Fiverr](https://www.fiverr.com/share/r3jxm7) - [freeCodeCamp](https://www.freecodecamp.org/josedefreitas) - [Medium](https://medium.com/@josedefreitas) - [Frontend Mentor](https://www.frontendmentor.io/profile/JoseDeFreitas) - [CodersRank](https://profile.codersrank.io/user/josedefreitas) - [dev.to](https://dev.to/josedefreitas) - [Repl.it](https://repl.it/@JoseDeFreitas) - [StackOverflow](https://stackoverflow.com/users/13414692/jose-de-freitas) - [Crowdin](https://crowdin.com/profile/JoseDeFreitas).
+>You can find me on
+>
+>Discord (Jose#7947) - [Twitter](https://twitter.com/JoseDeF32503298) - [Fiverr](https://www.fiverr.com/share/r3jxm7) - [freeCodeCamp](https://www.freecodecamp.org/josedefreitas) - [Medium](https://medium.com/@josedefreitas) - [Frontend Mentor](https://www.frontendmentor.io/profile/JoseDeFreitas) - [CodersRank](https://profile.codersrank.io/user/josedefreitas) - [dev.to](https://dev.to/josedefreitas) - [Repl.it](https://repl.it/@JoseDeFreitas) - [StackOverflow](https://stackoverflow.com/users/13414692/jose-de-freitas) - [Crowdin](https://crowdin.com/profile/JoseDeFreitas).
 
 <!--
 🚀
