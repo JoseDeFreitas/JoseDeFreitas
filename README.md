@@ -2,17 +2,20 @@
   <summary>
     GitHub Stats
   </summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseDeFreitas&count_private=true" alt="José De Freita's GitHub Stats"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JoseDeFreitas&count_private=true" alt="José De Freita's GitHub Stats"/>
+  </a>
 </details>
 <details>
   <summary>
     GitHub Top Languages
   </summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDeFreitas&layout=compact" alt="José De Freita's GitHub Top Languages"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDeFreitas&layout=compact" alt="José De Freita's GitHub Top Languages"/>
+  </a>
 </details>
 
-> You can find me on
->> Discord (Jose#7947) - [Twitter](https://twitter.com/JoseDeF32503298) - [Fiverr](https://www.fiverr.com/share/r3jxm7) - [freeCodeCamp](https://www.freecodecamp.org/josedefreitas) - [Medium](https://medium.com/@josedefreitas) - [Frontend Mentor](https://www.frontendmentor.io/profile/JoseDeFreitas) - [CodersRank](https://profile.codersrank.io/user/josedefreitas) - [dev.to](https://dev.to/josedefreitas) - [Repl.it](https://repl.it/@JoseDeFreitas) - [StackOverflow](https://stackoverflow.com/users/13414692/jose-de-freitas) - [Crowdin](https://crowdin.com/profile/JoseDeFreitas).
+Discord (Jose#7947) - [Twitter](https://twitter.com/JoseDeF32503298) - [Fiverr](https://www.fiverr.com/share/r3jxm7) - [freeCodeCamp](https://www.freecodecamp.org/josedefreitas) - [Medium](https://medium.com/@josedefreitas) - [Frontend Mentor](https://www.frontendmentor.io/profile/JoseDeFreitas) - [CodersRank](https://profile.codersrank.io/user/josedefreitas) - [dev.to](https://dev.to/josedefreitas) - [Repl.it](https://repl.it/@JoseDeFreitas) - [StackOverflow](https://stackoverflow.com/users/13414692/jose-de-freitas) - [Crowdin](https://crowdin.com/profile/JoseDeFreitas).
 
 <!--
 🚀
