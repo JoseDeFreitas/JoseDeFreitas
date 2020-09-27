@@ -15,7 +15,9 @@
   </a>
 </details>
 
-Discord (Jose#7947) - [Twitter](https://twitter.com/JoseDeF32503298) - [Fiverr](https://www.fiverr.com/share/r3jxm7) - [freeCodeCamp](https://www.freecodecamp.org/josedefreitas) - [Medium](https://medium.com/@josedefreitas) - [Frontend Mentor](https://www.frontendmentor.io/profile/JoseDeFreitas) - [CodersRank](https://profile.codersrank.io/user/josedefreitas) - [dev.to](https://dev.to/josedefreitas) - [Repl.it](https://repl.it/@JoseDeFreitas) - [StackOverflow](https://stackoverflow.com/users/13414692/jose-de-freitas) - [Crowdin](https://crowdin.com/profile/JoseDeFreitas).
+[Twitter](https://twitter.com/JoseDeF32503298) - [Fiverr](https://www.fiverr.com/share/r3jxm7) - [Medium](https://medium.com/@josedefreitas) - [CodersRank](https://profile.codersrank.io/user/josedefreitas) - [StackOverflow](https://stackoverflow.com/users/13414692/jose-de-freitas) - [Crowdin](https://crowdin.com/profile/JoseDeFreitas) - Discord (Jose#7947).
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D62AAG8)
 
 <!--
 🚀
