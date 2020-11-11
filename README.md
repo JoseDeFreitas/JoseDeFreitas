@@ -11,7 +11,7 @@
     GitHub Top Languages
   </summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDeFreitas&layout=compact" alt="José De Freita's GitHub Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDeFreitas&layout=compact&hide=html" alt="José De Freita's GitHub Top Languages"/>
   </a>
 </details>
 
