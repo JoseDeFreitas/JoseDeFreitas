@@ -15,7 +15,7 @@
   </a>
 </details>
 
-[Twitter](https://twitter.com/JoseDeF32503298) - [Fiverr](https://www.fiverr.com/share/r3jxm7) - [Medium](https://medium.com/@josedefreitas) - [CodersRank](https://profile.codersrank.io/user/josedefreitas) - [StackOverflow](https://stackoverflow.com/users/13414692/jose-de-freitas) - [Crowdin](https://crowdin.com/profile/JoseDeFreitas) - Discord (Jose#7947).
+Discord (Jose#7947) - [Crowdin](https://crowdin.com/profile/JoseDeFreitas) - [CodersRank](https://profile.codersrank.io/user/josedefreitas).
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D62AAG8)
 
