@@ -15,7 +15,7 @@
   </a>
 </details>
 
-Discord (Jose#7947) - [Crowdin](https://crowdin.com/profile/JoseDeFreitas) - [CodersRank](https://profile.codersrank.io/user/josedefreitas).
+Discord (Jose#7947) - [Crowdin](https://crowdin.com/profile/JoseDeFreitas) - [CodersRank](https://profile.codersrank.io/user/josedefreitas) - [LeetCode](https://leetcode.com/JoseDeFreitas).
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D62AAG8)
 
