@@ -3,7 +3,7 @@
     GitHub Stats
   </summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoseDeFreitas&count_private=true&include_all_commits=true" alt="José De Freita's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=JoseDeFreitas&theme=dark&count_private=true&include_all_commits=true" alt="José De Freita's GitHub Stats"/>
   </a>
 </details>
 <details>
@@ -11,7 +11,7 @@
     GitHub Top Languages
   </summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDeFreitas&layout=compact&hide=html" alt="José De Freita's GitHub Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDeFreitas&theme=dark&layout=compact&hide=html" alt="José De Freita's GitHub Top Languages"/>
   </a>
 </details>
 
