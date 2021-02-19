@@ -30,7 +30,7 @@ jobs:
       - name: Commit to the repo
         run: |
           git config --global user.name "JoseDeFreitas/JoseDeFreitas"
-          git config --global user.email "joselocotote26@gmail.com"
+          git config --global user.email "JoseDeFreitas@users.noreply.github.com"
           git add .
           git commit -m 'Update generated files' || echo
           git push
