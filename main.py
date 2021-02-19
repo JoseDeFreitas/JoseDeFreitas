@@ -3,7 +3,9 @@ import os
 def main():
     with open("file.txt", "r") as f:
         output = f.readlines()
-    output[0] = 'testing'
+    for i, j in enumerate(output):
+        if j.startswith("---"):
+            output[i] = i.upper()
     with open("file.txt", "w") as f:
         f.writelines(output)
 
