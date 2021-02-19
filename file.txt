@@ -7,3 +7,4 @@ Next line will match!
 How is that all upper case?
 Hope it looks good.
 --- AND THIS TOO.
+--- Doing right. I'm happy.
