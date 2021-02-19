@@ -27,10 +27,11 @@ jobs:
           python3 --version
           python3 main.py
 
+      # "JoseDeFreitas@users.noreply.github.com"
       - name: Commit to the repo
         run: |
           git config --global user.name "JoseDeFreitas/JoseDeFreitas"
-          git config --global user.email "JoseDeFreitas@users.noreply.github.com"
+          git config --global user.email "JoseDeFreitas[bot]@JoseDeFreitas.github.io"
           git add .
           git commit -m 'Update generated files' || echo
           git push
