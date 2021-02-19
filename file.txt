@@ -6,3 +6,4 @@ Next line will match!
 --- Okay, this should match
 How is that all upper case?
 Hope it looks good.
+--- And this too.
