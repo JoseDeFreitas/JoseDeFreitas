@@ -5,7 +5,7 @@ def main():
         output = f.readlines()
     for i, j in enumerate(output):
         if j.startswith("---"):
-            output[i] = i.upper()
+            output[i] = j.upper()
     with open("file.txt", "w") as f:
         f.writelines(output)
 
