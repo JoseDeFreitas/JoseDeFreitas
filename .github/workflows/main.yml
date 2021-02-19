@@ -3,6 +3,10 @@ name: Test
 on:
   push:
     branches: [ main ]
+    paths: 'file.txt'
+  pull_request:
+    branches: [ main ]
+    paths: 'file.txt'
 
   workflow_dispatch:
 
@@ -28,6 +32,5 @@ jobs:
           git config --global user.name "JoseDeFreitas/JoseDeFreitas"
           git config --global user.email "joselocotote26@gmail.com"
           git add .
-          # "echo" returns true so the build succeeds, even if no changed files
           git commit -m 'Update generated files' || echo
           git push
