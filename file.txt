@@ -2,3 +2,7 @@ I'm testing how this works
 in order to do something else.
 First, no match
 but it'll at the next commit.
+Next line will match!
+--- Okay, this should match
+How is that all upper case?
+Hope it looks good.
