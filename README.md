@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**JoseDeFreitas/JoseDeFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects I made:
+- [CodewarsLogger](https://github.com/JoseDeFreitas/CodewarsLogger).
+  - Webscraping tool to copy all your completed code-challenges from Codewars in an organised folder.
+- [Wikipedia Edits Chart](https://github.com/JoseDeFreitas/wikipedia-edits-chart).
+  - API that retrieves a chart with the days and the count of edits made in Wikipedia by any user.
+- [Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers).
+  - List of awesome youtubers that teach technology-related topics, categorised by discipline.
+- [Codewars Activity Chart](https://github.com/JoseDeFreitas/codewars-activity-chart).
+  - API that retrieves a chart with the days and the count of katas completed in Codewars by any user.
+- [freeCodeCamp: Scientific Computing with Python](https://github.com/JoseDeFreitas/fcc-scientific-computing-with-python).
+  - 5 programming problems provided by freeCodeCamp solved using Python.
+- [BulkCreateGoogleDrive](https://github.com/JoseDeFreitas/BulkCreateGoogleDrive).
+  - Executable file that automatically bulk-creates any amount of files you want into your Google Drive storage.
+- [freeCodeCamp: Responsive Web Design](https://github.com/JoseDeFreitas/fcc-responsive-web-design).
+  - 5 projects asked by freeCodeCamp made with HTML and CSS.
