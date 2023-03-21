@@ -1,4 +1,4 @@
-### Projects I made:
+### My projects:
 - [CodewarsLogger](https://github.com/JoseDeFreitas/CodewarsLogger).
   - Webscraping tool to copy all your completed code-challenges from Codewars in an organised folder.
 - [Wikipedia Edits Chart](https://github.com/JoseDeFreitas/wikipedia-edits-chart).
