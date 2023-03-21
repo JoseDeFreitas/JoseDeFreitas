@@ -1,6 +1,4 @@
-### My projects:
-
-| Project                                                                                                                 | Description                                                                                                  |
+| My projects                                                                                                                 | Description                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | [CodewarsLogger](https://github.com/JoseDeFreitas/CodewarsLogger)                                                       | Webscraping tool to copy all your completed code-challenges from Codewars in an organised folder.            |
 | [Wikipedia Edits Chart](https://github.com/JoseDeFreitas/wikipedia-edits-chart)                                         | API that retrieves a chart with the days and the count of edits made in Wikipedia by any user.               |
