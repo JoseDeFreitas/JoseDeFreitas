@@ -6,4 +6,4 @@
 | [Codewars Activity Chart](https://github.com/JoseDeFreitas/codewars-activity-chart)                                     | API that retrieves a chart with the days and the count of katas completed in Codewars by any user.           |
 | [freeCodeCamp: Scientific Computing with Python](https://github.com/JoseDeFreitas/fcc-scientific-computing-with-python) | 5 programming problems provided by freeCodeCamp solved using Python.                                         |
 | [BulkCreateGoogleDrive](https://github.com/JoseDeFreitas/BulkCreateGoogleDrive)                                         | Program that automatically creates any amount of files you want into your Google Drive storage. |
-| [freeCodeCamp: Responsive Web Design](https://github.com/JoseDeFreitas/fcc-responsive-web-design)                       | 5 projects asked by freeCodeCamp made with HTML and CSS.                                                     |
+| [freeCodeCamp: Responsive Web Design](https://github.com/JoseDeFreitas/fcc-responsive-web-design)                       | 5 projects proposed by freeCodeCamp made with HTML and CSS.                                                     |
