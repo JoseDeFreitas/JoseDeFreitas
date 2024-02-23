@@ -7,3 +7,5 @@
 | [Codewars Activity Chart](https://github.com/JoseDeFreitas/codewars-activity-chart)                                     | API that retrieves a chart with the days and the count of katas completed in Codewars by any user.           |
 | [BulkCreateGoogleDrive](https://github.com/JoseDeFreitas/BulkCreateGoogleDrive)                                         | Program that automatically creates any amount of files you want into your Google Drive storage.              |
 | [freeCodeCamp: Responsive Web Design](https://github.com/JoseDeFreitas/fcc-responsive-web-design)                       | 5 projects proposed by freeCodeCamp made with HTML and CSS.                                                  |
+
+<img src="https://s11.flagcounter.com/count/6BVK/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_3/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
