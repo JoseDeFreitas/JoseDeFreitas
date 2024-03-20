@@ -7,5 +7,3 @@
 | [Codewars Activity Chart](https://github.com/JoseDeFreitas/codewars-activity-chart)                                     | API that retrieves a chart with the days and the count of katas completed in Codewars by any user.           |
 | [BulkCreateGoogleDrive](https://github.com/JoseDeFreitas/BulkCreateGoogleDrive)                                         | Program that automatically creates any amount of files you want into your Google Drive storage.              |
 | [freeCodeCamp: Responsive Web Design](https://github.com/JoseDeFreitas/fcc-responsive-web-design)                       | 5 projects proposed by freeCodeCamp made with HTML and CSS.                                                  |
-
-[![José de Freitas profile views](https://u8views.com/api/v1/github/profiles/37962411/views/day-week-month-total-count.svg)](https://u8views.com/github/JoseDeFreitas)
