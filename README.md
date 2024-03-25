@@ -4,4 +4,4 @@
 <a href="https://github.com/JoseDeFreitas/awesome-youtubers"><img title="List of awesome youtubers that teach technology-related topics, categorised by discipline." src="https://img.shields.io/badge/Awesome YouTubers-e01a1a"></a>
 <a href="https://github.com/JoseDeFreitas/codewars-activity-chart"><img title="API that retrieves a chart with the days and the count of katas completed in Codewars by any user." src="https://img.shields.io/badge/Codewars Activity Chart-bc3618"></a>
 <a href="https://github.com/JoseDeFreitas/BulkCreateGoogleDrive"><img title="Program that automatically creates any amount of files you want into your Google Drive storage." src="https://img.shields.io/badge/BulkCreateGoogleDrive-a9e01f"></a>
-<a href="https://github.com/JoseDeFreitas/fcc-responsive-web-design"><img title="Five projects proposed by freeCodeCamp made with HTML and CSS." src="https://img.shields.io/badge/freeCodeCamp: Responsive Web Design-c154e5"></a>
+<a href="https://github.com/JoseDeFreitas/fcc-responsive-web-design"><img title="Five projects proposed by freeCodeCamp made with HTML and CSS." src="https://img.shields.io/badge/freeCodeCamp: Responsive Web Design-9a39ba"></a>
